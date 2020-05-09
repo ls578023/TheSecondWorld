@@ -1,0 +1,6 @@
+安卓buglyID:8ab5b68ab12
+安卓buglyKey:ce5eaee4-b476-4a55-84ec-5356903bd32e1
+安卓包名:com.hdhd.fzqcc
+app名称:fzqcc
+PDRAGON_KEY:NDRtLj8/aGR5PXpxNDgAAFdbAAA=
+PrjBuild的名称:hdhd

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 754262858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d46308a7eba5d26551e1ebbe463157f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/AirShip/Fire_004.tga
+Dependencies: []

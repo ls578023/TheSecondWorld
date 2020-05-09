@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 52981286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1f6c6f85a1faf527086718e4bc3a149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e7a9a5bc260fb3cb7f278e39396d550
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/BundleRes/Effect/UI/Flash.prefab
+Dependencies: []

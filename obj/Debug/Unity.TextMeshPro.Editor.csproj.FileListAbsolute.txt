@@ -1,0 +1,624 @@
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\DOTween.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\DOTweenEditor.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\netstandard.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.AppContext.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Collections.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Console.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Core.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Globalization.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Linq.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Numerics.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityScript.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\DOTweenEditor.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\DOTween.xml
+C:\Users\Administrator\Desktop\The Second World\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Administrator\Desktop\The Second World\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\The Second World\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\The Second World\obj\Debug\Unity.TextMeshPro.Editor.csproj.CopyComplete
+C:\Users\Administrator\Desktop\The Second World\obj\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Administrator\Desktop\The Second World\obj\Debug\Unity.TextMeshPro.Editor.pdb
+D:\TheSecondWorld\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\TheSecondWorld\Temp\bin\Debug\Boo.Lang.dll
+D:\TheSecondWorld\Temp\bin\Debug\DOTween.dll
+D:\TheSecondWorld\Temp\bin\Debug\DOTweenEditor.dll
+D:\TheSecondWorld\Temp\bin\Debug\LitJson.dll
+D:\TheSecondWorld\Temp\bin\Debug\Microsoft.CSharp.dll
+D:\TheSecondWorld\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\mscorlib.dll
+D:\TheSecondWorld\Temp\bin\Debug\netstandard.dll
+D:\TheSecondWorld\Temp\bin\Debug\nunit.framework.dll
+D:\TheSecondWorld\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.AppContext.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Collections.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ComponentModel.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Console.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Core.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Data.Common.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Data.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Globalization.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.Pipes.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Linq.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Http.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Http.Rtc.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Ping.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Requests.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Security.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.Sockets.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Numerics.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ObjectModel.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.Emit.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Resources.Reader.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Resources.Writer.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Claims.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.Principal.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Security.SecureString.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ServiceModel.Http.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ServiceModel.Security.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Text.Encoding.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.Thread.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Threading.Timer.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.ValueTuple.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.Linq.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.XPath.dll
+D:\TheSecondWorld\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Locator.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Advertisements.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Networking.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Timeline.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.UI.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.VR.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UI.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityScript.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityScript.Lang.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Cecil.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.DataContract.dll
+D:\TheSecondWorld\Temp\bin\Debug\ExCSS.Unity.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.IvyParser.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\TheSecondWorld\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\TheSecondWorld\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\TheSecondWorld\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\TheSecondWorld\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\TheSecondWorld\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.CecilTools.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\TheSecondWorld\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.UI.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.UI.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.TestRunner.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\TheSecondWorld\Temp\bin\Debug\nunit.framework.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Timeline.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.Networking.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.VR.xml
+D:\TheSecondWorld\Temp\bin\Debug\DOTween.xml
+D:\TheSecondWorld\Temp\bin\Debug\DOTweenEditor.xml
+D:\TheSecondWorld\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\TheSecondWorld\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+D:\TheSecondWorld\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+D:\TheSecondWorld\obj\Debug\Unity.TextMeshPro.Editor.csproj.CopyComplete
+D:\TheSecondWorld\obj\Debug\Unity.TextMeshPro.Editor.dll
+D:\TheSecondWorld\obj\Debug\Unity.TextMeshPro.Editor.pdb

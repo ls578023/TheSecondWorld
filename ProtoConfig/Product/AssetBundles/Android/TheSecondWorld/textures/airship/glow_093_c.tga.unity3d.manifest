@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1360806481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47206cd09db6203b7a89e698f3080c11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/AirShip/Glow_093_c.tga
+Dependencies: []

@@ -1,0 +1,30 @@
+1233078|2020-05-06 15:18:40Z
+atlas/common.spriteatlas.unity3d|e62b2a15c4b0c99933ca126da334d90e|1095086
+data/config.unity3d|4c412e5eacad3de90dc7822402c7b663|1597
+data/layercollisionmatrix.bytes.unity3d|fb5d9f46065d01e5b9f38153696d8ba7|829
+effect/ui/boom.prefab.unity3d|65bae449ec6676edb1d9006d6c3d0b24|46103
+effect/ui/flash.prefab.unity3d|565bffca7afb7855da7ef2fee9ecc071|75203
+effect/ui/snow.prefab.unity3d|370807624551feb3327ad8dde24719a8|22869
+materials/airship/01basic4.mat.unity3d|1143f497cedd348a323112e634500e0a|1612
+materials/airship/airship.mat.unity3d|94fbf319013558c59cd5f25d90abdea0|169284
+materials/airship/gf_474_andi.mat.unity3d|6bb40cc7658424a0867af9e1ebddad6e|6611
+materials/airship/glow_noisy.mat.unity3d|d2c46d8d753086b2c00746d70fe52655|6596
+materials/airship/newunlitshader.shader.unity3d|5ef0298dc28f60dbe49ab932d3b904cb|6247
+materials/airship/qiu.mat.unity3d|f38d7f5ce4b832c60884d7b378fb933d|1326
+materials/airship/sf4_dds_0144.mat.unity3d|2d3dc96d8c0066f816aebc1ab644fa20|6610
+materials/airship/sf4_dds_0178.mat.unity3d|ab9778e7f9afe779c0355d1eeae92ebb|6675
+materials/airship/unlit_newunlitshader 2.mat.unity3d|20e3c82f8bc5f0ccd2e4c418f38b08a9|6701
+prefabs/airship.prefab.unity3d|77f2ef4d15e7d963264e35dcea8e84d0|39256
+prefabs/touchtrail.prefab.unity3d|0d7c36fe67eed729377dcedec840480e|8189
+textures/airship/01basic3.png.unity3d|88ff681d966f23e83ad2d3552ab31543|6335
+textures/airship/airship.jpg.unity3d|7ca2080866107fd97d7df4a7d39de6f2|165424
+textures/airship/fire_003.tga.unity3d|b3a7e30a7c7fc15537ee19a1d8204f39|32682
+textures/airship/fire_004.tga.unity3d|acc25360f73f6f9d734816a9c2b491f5|29991
+textures/airship/gf_474.tga.unity3d|2a155efc2c6ddead3b8a36856b2058e2|74850
+textures/airship/gf_475.tga.unity3d|7836ffeb99b424bcc3804e91fb8bab55|74823
+textures/airship/glow_093_c.tga.unity3d|f29121461142344d175ce7149409be11|13925
+textures/airship/sf4_dds_0143.png.unity3d|b54344c886ebddcf5268928e9e07c432|44180
+textures/airship/sf4_dds_0178.png.unity3d|1b764b334b42b81f12f5750a4374e8d2|15937
+ui/uiroot.prefab.unity3d|f6ba7de5e77d52953cbd86d3cf8f8379|3845
+ui/mainui/mainui.prefab.unity3d|38a53b9db8193ad142f1798289888839|2126104
+TheSecondWorld|c70655f31dc68439859f26e478eaf596|1909

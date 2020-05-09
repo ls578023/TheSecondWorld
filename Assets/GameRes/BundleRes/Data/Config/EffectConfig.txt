@@ -1,0 +1,1 @@
+﻿[{"id":1,"type":0,"res":"Snow","duration":0.0},{"id":2,"type":0,"res":"Boom","duration":0.0},{"id":3,"type":0,"res":"Flash","duration":0.0},{"id":4,"type":0,"res":"qcgc_renwulan_Light","duration":1.5}]

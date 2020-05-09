@@ -1,0 +1,1 @@
+{"dataDic":{1:{"taskID":1,"taskDes":"击杀冰霜巨龙","isFinish":true},2:{"taskID":2,"taskDes":"击杀地狱炎龙","isFinish":true},3:{"taskID":3,"taskDes":"击杀山岳龙","isFinish":true},4:{"taskID":4,"taskDes":"击杀黑色心脏拉斯贝尔格","isFinish":true}},"vec":{"x":60.00004,"y":158.4229,"z":-7.854725E-05}}

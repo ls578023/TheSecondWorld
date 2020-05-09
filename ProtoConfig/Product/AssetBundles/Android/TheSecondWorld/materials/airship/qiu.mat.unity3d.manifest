@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4276479863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5ce8fa2df34c0cd3fcc7a1cf9d50990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/AirShip/qiu.mat
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d

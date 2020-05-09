@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4205611647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ed0ae4045356b0cec6711fa40f563dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/AirShip/glow_noisy.mat
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/gf_475.tga.unity3d

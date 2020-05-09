@@ -1,0 +1,145 @@
+ManifestFileVersion: 0
+CRC: 2515318941
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/uiroot.prefab.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: data/layercollisionmatrix.bytes.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: prefabs/touchtrail.prefab.unity3d
+      Dependencies:
+        Dependency_0: materials/trail/dantou_01.mat.unity3d
+        Dependency_1: materials/trail/symbols.mat.unity3d
+        Dependency_2: materials/trail/trail_11.mat.unity3d
+    Info_3:
+      Name: ui/mainui/mainui.prefab.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: data/config.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: effect/ui/snow.prefab.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: effect/ui/boom.prefab.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: effect/ui/flash.prefab.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: textures/airship/01basic3.png.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: textures/airship/airship.jpg.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: textures/airship/fire_003.tga.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: textures/airship/fire_004.tga.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: textures/airship/gf_474.tga.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: textures/airship/gf_475.tga.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: textures/airship/glow_093_c.tga.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: textures/airship/sf4_dds_0143.png.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: textures/airship/sf4_dds_0178.png.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: prefabs/airship.prefab.unity3d
+      Dependencies:
+        Dependency_0: materials/airship/01basic4.mat.unity3d
+        Dependency_1: materials/airship/airship.mat.unity3d
+        Dependency_2: materials/airship/gf_474_andi.mat.unity3d
+        Dependency_3: materials/airship/glow_noisy.mat.unity3d
+        Dependency_4: materials/airship/qiu.mat.unity3d
+        Dependency_5: materials/airship/sf4_dds_0144.mat.unity3d
+        Dependency_6: materials/airship/sf4_dds_0178.mat.unity3d
+        Dependency_7: materials/airship/unlit_newunlitshader 2.mat.unity3d
+    Info_18:
+      Name: materials/airship/01basic4.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/01basic3.png.unity3d
+        Dependency_1: textures/airship/glow_093_c.tga.unity3d
+        Dependency_2: materials/airship/newunlitshader.shader.unity3d
+    Info_19:
+      Name: materials/airship/airship.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/airship.jpg.unity3d
+    Info_20:
+      Name: materials/airship/gf_474_andi.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/gf_474.tga.unity3d
+    Info_21:
+      Name: materials/airship/glow_noisy.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/gf_475.tga.unity3d
+    Info_22:
+      Name: materials/airship/newunlitshader.shader.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/glow_093_c.tga.unity3d
+    Info_23:
+      Name: materials/airship/qiu.mat.unity3d
+      Dependencies:
+        Dependency_0: materials/airship/newunlitshader.shader.unity3d
+    Info_24:
+      Name: materials/airship/sf4_dds_0144.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/sf4_dds_0143.png.unity3d
+    Info_25:
+      Name: materials/airship/sf4_dds_0178.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/sf4_dds_0178.png.unity3d
+    Info_26:
+      Name: materials/airship/unlit_newunlitshader 2.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/airship/fire_003.tga.unity3d
+        Dependency_1: textures/airship/fire_004.tga.unity3d
+    Info_27:
+      Name: scene/minegamemain.unity.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: prefabs/trail.prefab.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: ui/mainui/infoitem.prefab.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: ui/mainui/infoui.prefab.unity3d
+      Dependencies:
+        Dependency_0: ui/mainui/infoitem.prefab.unity3d
+    Info_31:
+      Name: textures/trail/dantou_01.png.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: textures/trail/symbols_02.png.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: textures/trail/trail_10.png.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: materials/trail/dantou_01.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/trail/dantou_01.png.unity3d
+    Info_35:
+      Name: materials/trail/symbols.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/trail/symbols_02.png.unity3d
+    Info_36:
+      Name: materials/trail/trail_11.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/trail/trail_10.png.unity3d
+    Info_37:
+      Name: scene/portraitscene.unity.unity3d
+      Dependencies: {}

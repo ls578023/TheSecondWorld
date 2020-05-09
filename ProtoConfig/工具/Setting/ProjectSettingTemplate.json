@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1, 
+    "Name": "导表工具",
+    "ProjectDir": "E:/Work/Truck",
+    "ClientDir": "$ProjectDir$/GameCollection",
+    "ClientHotDir": "$ProjectDir$/GameCollection",
+    "ServerDir": "",
+    "ConfigDir": "$ProjectDir$/GameCollection/ProtoConfig/Config",
+    "ProtoDir": "$ProjectDir$/GameCollection/ProtoConfig/Proto",
+    "GMServerDir": "",
+    "CodeOutId": 1
+  },
+	{
+		"Id":2,
+		"Name":"导表工具 Test",
+		"ProjectDir":"D:/UnityProject/SaiMaTest",
+		"ClientDir":"$ProjectDir$/Client/HorseRacing",
+		"ClientHotDir":"$ProjectDir$/Client/HotFix_HorseRacing",		
+		"ServerDir":"$ProjectDir$/Server/GameServer",
+		"ConfigDir":"$ProjectDir$/ProtoConfig/Config",
+		"ProtoDir":"$ProjectDir$/ProtoConfig/Proto",
+		"GMServerDir":"$ProjectDir$/GM/GMServer",
+		"CodeOutId":1
+	},
+ 
+]

@@ -1,0 +1,198 @@
+buildscript {
+    repositories {
+        maven {
+            url 'http://192.168.10.150:8081/repository/dbtrepository_release/'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.2'
+        /**classpath**/
+    }
+}
+allprojects {
+    repositories {
+        maven {
+            url 'http://192.168.10.150:8081/repository/dbtrepository_release/'
+        }
+    }
+}
+
+apply plugin: 'com.android.application'
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+ext {
+    stringVersion = "6.2.5.1";
+    stringGroupId = "com.google.ads.mediation";
+    //Cocos2dx游戏3.6版本依赖库
+    GameLibraryC2DX     = ["com.dbt.module", "C2DXPdragonAndroid", "1.5.5"];
+    //Cocos2dx游戏3.16版本依赖库
+    GameLibraryC2DX316  = ["com.dbt.module", "C2DXPdragonAndroid_316", "1.5.5"];
+    //H5小游戏转App游戏依赖库
+    GameLibraryC2DXH5   = ["com.dbt.module", "C2DXPdragonAndroid_h5", "1.5.3"];
+    //U3D游戏依赖库
+	GameLibraryU3D      = ["com.dbt.module", "UnityPdragonAndroid", "1.1.6"];
+    //获取当前工程的游戏依赖库
+    GameLibrary = getC2dxNameAndVer()
+	
+	//Common依赖库
+	//CommobLibrary = ["com.dbt.module", "pdragon_common", "1.7.0"];
+	
+	CommobLibrary = ["com.dbt.module", "pdragon_common", "1.9.8"];
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: '*.jar')
+    //分包
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.android.support:multidex-instrumentation:1.0.3'
+    //bugly
+    implementation 'com.dbt.module:bugly_crash_release:3.0.0@jar'
+    //Support包
+    implementation 'com.android.support:support-v4:25.3.1'
+    //基础公共库
+    implementation "${CommobLibrary[0]}:${CommobLibrary[1]}:${CommobLibrary[2]}@aar"
+    //U3D游戏层公共库
+    implementation "${GameLibrary[0]}:${GameLibrary[1]}:${GameLibrary[2]}@aar"
+	
+    //测试包，需要测试广告，加入一下代码
+	implementation "com.dbt.module_test:UnityAdsTest:1.0.1.4@aar"
+    //其他通过打包规则动态插入的依赖
+    /**implementation**/
+
+    fileTree(dir: 'libs', include: ['*.aar']).each { file ->
+        implementation(name: file.name.lastIndexOf('.').with {
+            it != -1 ? file.name[0..<it] : file.name
+        }, ext: 'aar')
+    }
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+        disable 'MissingTranslation'
+    }
+	
+    defaultConfig { 
+        ndk {
+            abiFilters "armeabi-v7a"
+        }
+        multiDexEnabled true
+        //gradle版本升级后，支持矢量图
+        vectorDrawables.useSupportLibrary = true
+        minSdkVersion 19
+        targetSdkVersion 26
+        /**defaultConfig**/
+    }
+	
+    dexOptions {
+        javaMaxHeapSize "4g"
+        preDexLibraries false
+        additionalParameters += '--set-max-idx-number=50000'
+        jumboMode = true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+	
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        doNotStrip '*/armeabi-v7a/*.so'
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            if (variant.buildType.name.equals('release')) {
+                //这个修改输出的APK路径 （路径不能是盘符根目录例如F：\\，要指定一个文件夹）
+                variant.getPackageApplicationProvider().get().outputDirectory = new File(projectDir.absolutePath + '\\bin\\')
+                variant.getPackageApplicationProvider().get().outputScope.apkDatas.forEach { apkData ->
+                    //这个修改输出APK的文件名
+                    apkData.outputFileName = "build-release-unsigned.apk"
+                }
+            }
+        }
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'build_info']
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs', 'libs-sdk']
+        }
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = false
+        }
+        abi {
+            enableSplit = true
+        }
+    }
+
+    buildTypes{
+        release{
+            /**proguard start
+             minifyEnabled true   //开启混淆同时会删除无用的资源
+             zipAlignEnabled true  //压缩优化
+             shrinkResources false  //移出无用资源
+             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-base.txt', 'proguard-common.txt', 'proguard-C2DXPdragonAndroid.txt', 'proguard-project.txt'
+             proguard end**/
+        }
+    }
+	/**android**/
+}
+/**apply**/
+
+
+
+
+String getProjectProValue(String key) {
+    Properties props = new Properties()
+    File propsFile = new File('project.properties')
+    if(propsFile.exists()){
+        props.load(propsFile.newDataInputStream())
+        String value = props.get(key)
+        return value
+    }
+    return null;
+}
+
+
+List getC2dxNameAndVer() {
+    String projectProperties = getProjectProValue("android.library.reference.1")
+    if(projectProperties != null && projectProperties.contains("C2DXPdragonSDK")){
+        if (projectProperties.contains("Proj.Android_316")) {
+            return GameLibraryC2DX316;
+        } else if (projectProperties.contains("Proj.Android_h5")) {
+            return GameLibraryC2DXH5
+        } else if (projectProperties.contains("Proj.Android")) {
+            return GameLibraryC2DX
+        }
+    }
+    return GameLibraryU3D
+}

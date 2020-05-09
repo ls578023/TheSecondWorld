@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 395389237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43f42a0e123c69535f1ae719e6c58a48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/AirShip/SF4_dds_0178.png
+Dependencies: []

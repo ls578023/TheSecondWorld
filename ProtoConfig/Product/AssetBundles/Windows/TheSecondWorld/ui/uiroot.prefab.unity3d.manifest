@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2570698874
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc505bb7882566530556b0eab8b9efa5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a1c23b86300c20d6067bcf8b40d485e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e00e1657128ab9c489392192090c1f5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/BundleRes/UI/UIRoot.prefab
+Dependencies: []

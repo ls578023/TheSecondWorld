@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1027427974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44e33986e74eb87ea795f7ac2bc07d32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/AirShip/01basic4.mat
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/01basic3.png.unity3d
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d

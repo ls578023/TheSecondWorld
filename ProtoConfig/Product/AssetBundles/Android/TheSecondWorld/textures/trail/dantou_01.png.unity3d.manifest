@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 186877288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d55874e229917f72d8ac0c44c2c47ff0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/Trail/dantou_01.png
+Dependencies: []

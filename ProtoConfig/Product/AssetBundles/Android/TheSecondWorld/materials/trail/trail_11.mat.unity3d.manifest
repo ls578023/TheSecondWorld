@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3492198505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c0f32527d204500502ef99f3a0df8e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/Trail/trail_11.mat
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/trail/trail_10.png.unity3d

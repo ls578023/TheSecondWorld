@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3339206600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65944e43e0cc05afbb6301e4125391af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/AirShip/NewUnlitShader.shader
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5e13acd3e40a86243b27cdd86017347c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _texture: {fileID: 2800000, guid: 555dc260593102c4da3c4a136910ebcb, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: materials/airship/newunlitshader.shader.unity3d
+  assetBundleVariant: 

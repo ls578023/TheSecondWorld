@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 787079634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d968fe49f9712dcdbf190de849bfb251
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e7a9a5bc260fb3cb7f278e39396d550
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/BundleRes/Effect/UI/Boom.prefab
+Dependencies: []

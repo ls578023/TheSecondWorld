@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1483464567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed1e08f0aab0a68e09134ace37c3743f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Materials/AirShip/Unlit_NewUnlitShader 2.mat
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Windows/TheSecondWorld/textures/airship/fire_003.tga.unity3d
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Windows/TheSecondWorld/textures/airship/fire_004.tga.unity3d

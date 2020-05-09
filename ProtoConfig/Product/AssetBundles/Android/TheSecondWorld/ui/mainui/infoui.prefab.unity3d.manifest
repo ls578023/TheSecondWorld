@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1221947499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14cf8ff2072f2b2c11469263ecde32c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1e7b6d0c18e480fbf6f478cb5983fa8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ba25370680bd64cbd1f1452763440f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/BundleRes/UI/MainUI/InfoUI.prefab
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/ui/mainui/infoitem.prefab.unity3d

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 742345781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82c103d76921fa263eee583082235962
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1192ac809df77326cdb7906b9c76aef6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Prefabs/Trail.prefab
+Dependencies: []

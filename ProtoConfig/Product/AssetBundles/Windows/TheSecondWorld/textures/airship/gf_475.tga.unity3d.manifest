@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2859519128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a22532b5c73201199634f054a88afc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/AirShip/GF_475.tga
+Dependencies: []

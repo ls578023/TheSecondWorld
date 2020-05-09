@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4035219414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d4fbdeedcbfc156a659a6b6640bb7a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56a0a47392f09c335f173e4771fe3dab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Prefabs/TouchTrail.prefab
+Dependencies:
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/dantou_01.mat.unity3d
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/symbols.mat.unity3d
+- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/trail_11.mat.unity3d

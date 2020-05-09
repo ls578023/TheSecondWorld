@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "导表工具1",
+    "ProjectDir": "D:",
+    "ClientDir": "$ProjectDir$/TheSecondWorld",
+    "ClientHotDir": "$ProjectDir$/TheSecondWorld",
+    "ServerDir": "", 
+    "ConfigDir": "$ProjectDir$/TheSecondWorld/ProtoConfig/Config",
+    "ProtoDir": "$ProjectDir$/TheSecondWorld/ProtoConfig/Proto",
+    "GMServerDir": "",
+    "CodeOutId": 1
+  },
+	{
+		"Id":2,
+		"Name":"导表工具 Test",
+		"ProjectDir":"D:/UnityProject/SaiMaTest",
+		"ClientDir":"$ProjectDir$/Client/HorseRacing",
+		"ClientHotDir":"$ProjectDir$/Client/HotFix_HorseRacing",		
+		"ServerDir":"$ProjectDir$/Server/GameServer",
+		"ConfigDir":"$ProjectDir$/ProtoConfig/Config",
+		"ProtoDir":"$ProjectDir$/ProtoConfig/Proto",
+		"GMServerDir":"$ProjectDir$/GM/GMServer",
+		"CodeOutId":1
+	},
+ 
+]
