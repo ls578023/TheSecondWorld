@@ -57,8 +57,10 @@ namespace TheSecondWorld.UI.MainUI
         {
             Vector3 rotation = (Vector3)arg[0];
 
-            itemList[0].SetData(rotation.x);
-            itemList[1].SetData(rotation.y);
+            itemList[0].SetData("旋转信息");
+            itemList[1].SetData("X轴 : " + rotation.x.ToString("0.00"));
+            itemList[2].SetData("Y轴 : " + rotation.y.ToString("0.00"));
+            itemList[3].SetData("Z轴 : " + rotation.z.ToString("0.00"));
 
         }
 

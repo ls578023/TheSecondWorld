@@ -17,9 +17,9 @@ namespace TheSecondWorld.UI.MainUI
              gameObject.AddClick(self_Click);     //当前对象点击事件             
         }
         /// <summary>设置数据<param name="data"></param>
-        public void SetData(float num)
+        public void SetData(string str)
         {
-            Text.text = num.ToString("0.00");
+            Text.text = str;
         }
         /// <summary>刷新Item</summary>
         public override void Refresh()
