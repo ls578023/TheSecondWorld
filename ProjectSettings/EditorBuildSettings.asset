@@ -8,7 +8,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameRes/BundleRes/Scene/MineGameMain.unity
     guid: 8137920dab9252c499efd1c23746d7ef
-  - enabled: 1
-    path: Assets/GameRes/BundleRes/Scene/PortraitScene.unity
-    guid: 431e3f42820a7f04baea7217bb695452
   m_configObjects: {}

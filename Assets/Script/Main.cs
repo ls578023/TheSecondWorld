@@ -68,10 +68,7 @@ namespace TheSecondWorld
                 LangData langData = new LangData();
                 langData.id = item.id;
                 langData.zh_cn = item.zh_cn;
-                langData.zh_tw = item.zh_tw;
                 langData.en = item.en;
-                langData.ja = item.ja;
-                langData.ko = item.ko;
                 dicLanDatas.Add(langData.id, langData);
             }
             GameFrameEntry.GetModule<LangModule>().SetLangData(dicLanDatas);

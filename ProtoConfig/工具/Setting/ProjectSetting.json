@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "Name": "导表工具1",
-    "ProjectDir": "D:",
+    "ProjectDir": "D:/Github/Clients",
     "ClientDir": "$ProjectDir$/TheSecondWorld",
     "ClientHotDir": "$ProjectDir$/TheSecondWorld",
     "ServerDir": "", 

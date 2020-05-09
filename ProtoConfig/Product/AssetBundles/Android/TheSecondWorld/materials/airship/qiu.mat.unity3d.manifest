@@ -16,4 +16,4 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Materials/AirShip/qiu.mat
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d

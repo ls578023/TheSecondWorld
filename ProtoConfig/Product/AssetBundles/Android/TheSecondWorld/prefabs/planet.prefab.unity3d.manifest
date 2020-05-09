@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 80175251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 980993e826d02c09a4f280849df0fb56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3bb8e9aa55a39274bdfa7d7cfb0394db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b01072c946e28054aad3d34971395c6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Prefabs/Planet.prefab
+Dependencies:
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/planet/planet.mat.unity3d

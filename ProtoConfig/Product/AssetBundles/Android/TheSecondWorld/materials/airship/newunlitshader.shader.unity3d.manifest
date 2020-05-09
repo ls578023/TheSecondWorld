@@ -14,4 +14,4 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Materials/AirShip/NewUnlitShader.shader
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d

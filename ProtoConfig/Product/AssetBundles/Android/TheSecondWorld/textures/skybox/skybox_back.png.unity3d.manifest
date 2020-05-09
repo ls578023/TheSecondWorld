@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2601125297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8276ab375a0de52c75b8c3458d8e29ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/SkyBox/Skybox_Back.png
+Dependencies: []

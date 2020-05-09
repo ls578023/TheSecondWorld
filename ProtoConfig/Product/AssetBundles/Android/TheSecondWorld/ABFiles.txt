@@ -1,5 +1,5 @@
-1235933|2020-05-08 14:53:25Z
-data/config.unity3d|2b4b09265c014480259febdf5d5c56b0|1597
+1237089|2020-05-09 10:09:14Z
+data/config.unity3d|63c4c73c47f3e0f34ed79e0e29362dd7|1143
 data/layercollisionmatrix.bytes.unity3d|4af55c8b979b339dca61a322f1c93f5d|829
 effect/ui/boom.prefab.unity3d|088194ddcf8746a6c664c65996ad1cf0|44496
 effect/ui/flash.prefab.unity3d|811cd75f71d0affcece2264cb09fdac9|64067
@@ -13,14 +13,16 @@ materials/airship/qiu.mat.unity3d|2275c3c285665d7f98e94435161467fe|1326
 materials/airship/sf4_dds_0144.mat.unity3d|381abd126abad7df2ab8d8c90bf15dc8|6655
 materials/airship/sf4_dds_0178.mat.unity3d|5023fd1c1d04e634084574f9cd02b0f5|6910
 materials/airship/unlit_newunlitshader 2.mat.unity3d|c0e85ecdf0547d2fcfe0925661f4bebc|6942
+materials/planet/planet.mat.unity3d|383ce1c4c8af4aeb1a6091d35915f389|5845
 materials/trail/dantou_01.mat.unity3d|a93bc708d1cea185f5505e567da7e049|6953
 materials/trail/symbols.mat.unity3d|6209c68f29a67f1b3bbdde8b853af4f2|7006
 materials/trail/trail_11.mat.unity3d|4a3b93e8ebe9b492317bb4175b94622d|6992
-prefabs/airship.prefab.unity3d|ab96217eccd33c17bfdd1b225e9dbfc4|39639
+prefabs/airship.prefab.unity3d|0f68d5c2fd885ed53bbb8d0b3cf03a2f|39721
+prefabs/planet.prefab.unity3d|3833dd1cbf2d28f553a3ffdb65030767|53030
 prefabs/touchtrail.prefab.unity3d|a08d4e06be6b80657afb6ebe23502319|11380
 prefabs/trail.prefab.unity3d|f3c33c8c53576cd076756f906f4f0c33|8218
-scene/minegamemain.unity.unity3d|1e1a7612a0bac3157b23b794eb133b7d|23649
-scene/portraitscene.unity.unity3d|85b7ee03bed30bb7ed9069c6db10fb17|22140
+scene/minegamemain.unity.unity3d|53cbd263f0f2120a4b16174dd4274d7d|23717
+scene/portraitscene.unity.unity3d|908b1f51072a9e1fd017298af348d9ac|62712
 textures/airship/01basic3.png.unity3d|46fc496905b731c50b24f16fb95897ad|6554
 textures/airship/airship.jpg.unity3d|970856011b75811e619f501ad402a608|132269
 textures/airship/fire_003.tga.unity3d|ed06c4078440e436259b7fd77ffaa07a|26554
@@ -30,11 +32,18 @@ textures/airship/gf_475.tga.unity3d|92253a0025a432ddd9c1b8c0244e7284|39462
 textures/airship/glow_093_c.tga.unity3d|090b33b1731d1bfeea0c357bb9324642|10054
 textures/airship/sf4_dds_0143.png.unity3d|b3e5f4a1835ddece62855808cbfbdb9c|26620
 textures/airship/sf4_dds_0178.png.unity3d|7aa8ee0f06aa0ada8f9c54637a83f26f|12168
+textures/planet/baise.png.unity3d|b22b22a61a9a759b5242e0da6f911995|290482
+textures/skybox/skybox_back.png.unity3d|af4fdc8bf4e2626d8195a5fdd552715d|24487
+textures/skybox/skybox_down.png.unity3d|d84eef505588b201c3cbdc3d7afd3c4a|33714
+textures/skybox/skybox_front.png.unity3d|da4356c2c3b9fa43cc3f70db5c041ffc|36624
+textures/skybox/skybox_left.png.unity3d|2f22748bf6757f1b166b0f779f314792|43022
+textures/skybox/skybox_right.png.unity3d|ec3ca8abe85d291deaba339fdd3e11de|41018
+textures/skybox/skybox_up.png.unity3d|8beb08e358dcc51a5343ca640aa6c3f9|61036
 textures/trail/dantou_01.png.unity3d|dd3959cee9cef5b0ea817e4c470c32b7|42144
 textures/trail/symbols_02.png.unity3d|3f6e5dc79a15b5561d1e2fe888976f2e|7268
 textures/trail/trail_10.png.unity3d|0b8edd5356fc49e5513be54cbd52746e|36425
 ui/uiroot.prefab.unity3d|ed412d883f5a91ea40ef89fd9861b31f|3860
 ui/mainui/infoitem.prefab.unity3d|26612ff041291cdc95f54982c405005b|1301920
 ui/mainui/infoui.prefab.unity3d|34d6b30e660be00c748edba38b2a44ba|1302873
-ui/mainui/mainui.prefab.unity3d|0d4e77d7c196288b32f2264c0f246503|1312162
-TheSecondWorld|377f300d182a8f88512e53a5559aff53|2213
+ui/mainui/mainui.prefab.unity3d|d7e8e72f5d1be86163d80af439d4ffb5|1312423
+TheSecondWorld|9a64c1623c6ab3dcf42fe85ba5ad2f30|2473

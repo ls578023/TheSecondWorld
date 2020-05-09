@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 45133617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d234aa8b971417b571096e108d0c525c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/SkyBox/Skybox_Left.png
+Dependencies: []

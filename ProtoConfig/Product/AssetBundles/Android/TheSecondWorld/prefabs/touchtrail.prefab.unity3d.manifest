@@ -28,6 +28,6 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Prefabs/TouchTrail.prefab
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/dantou_01.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/symbols.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/trail_11.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/dantou_01.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/symbols.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/trail/trail_11.mat.unity3d

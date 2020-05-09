@@ -18,5 +18,5 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Materials/AirShip/Unlit_NewUnlitShader 2.mat
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/fire_003.tga.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/fire_004.tga.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/fire_003.tga.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/fire_004.tga.unity3d

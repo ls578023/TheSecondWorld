@@ -18,6 +18,6 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Materials/AirShip/01basic4.mat
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/01basic3.png.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/01basic3.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/airship/glow_093_c.tga.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/newunlitshader.shader.unity3d

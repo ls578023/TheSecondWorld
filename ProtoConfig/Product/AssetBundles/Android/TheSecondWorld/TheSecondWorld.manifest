@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2515318941
+CRC: 4155105060
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -142,4 +142,40 @@ AssetBundleManifest:
         Dependency_0: textures/trail/trail_10.png.unity3d
     Info_37:
       Name: scene/portraitscene.unity.unity3d
+      Dependencies:
+        Dependency_0: textures/skybox/skybox_back.png.unity3d
+        Dependency_1: textures/skybox/skybox_down.png.unity3d
+        Dependency_2: textures/skybox/skybox_front.png.unity3d
+        Dependency_3: textures/skybox/skybox_left.png.unity3d
+        Dependency_4: textures/skybox/skybox_right.png.unity3d
+        Dependency_5: textures/skybox/skybox_up.png.unity3d
+        Dependency_6: prefabs/planet.prefab.unity3d
+    Info_38:
+      Name: textures/planet/baise.png.unity3d
       Dependencies: {}
+    Info_39:
+      Name: textures/skybox/skybox_back.png.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: textures/skybox/skybox_down.png.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: textures/skybox/skybox_front.png.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: textures/skybox/skybox_left.png.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: textures/skybox/skybox_right.png.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: textures/skybox/skybox_up.png.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: prefabs/planet.prefab.unity3d
+      Dependencies:
+        Dependency_0: materials/planet/planet.mat.unity3d
+    Info_46:
+      Name: materials/planet/planet.mat.unity3d
+      Dependencies:
+        Dependency_0: textures/planet/baise.png.unity3d

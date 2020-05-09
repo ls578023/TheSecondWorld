@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 722759776
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2be16fa19fb335d676389a2cdacc9e93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/ArtRes/Textures/SkyBox/Skybox_Up.png
+Dependencies: []

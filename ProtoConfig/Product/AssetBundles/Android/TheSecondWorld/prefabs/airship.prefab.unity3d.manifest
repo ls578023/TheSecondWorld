@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4122082201
+CRC: 157813085
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca833ed54c1ce5dd9647da2e6ca5fd01
+    Hash: fe0b94e76e1631ca567c2b53d97baa4c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 188facee902b4229d5f4ccb82287a5dc
@@ -32,12 +32,12 @@ ClassTypes:
 Assets:
 - Assets/GameRes/ArtRes/Prefabs/AirShip.prefab
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/01basic4.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/airship.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/gf_474_andi.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/glow_noisy.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/qiu.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/sf4_dds_0144.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/sf4_dds_0178.mat.unity3d
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/unlit_newunlitshader
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/01basic4.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/airship.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/gf_474_andi.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/glow_noisy.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/qiu.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/sf4_dds_0144.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/sf4_dds_0178.mat.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/materials/airship/unlit_newunlitshader
   2.mat.unity3d

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1527828001
+CRC: 402044340
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ea5ade1a8913a5d9a0e3a06e1e32a1bb
+    Hash: c49a39466900e8b55d87110cdef4c747
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b50aa4b34c71190de6986338b71ead59
+    Hash: c0d8a7ef5e76a8547442a139f0943da2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,7 +17,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
@@ -27,7 +33,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
-- Class: 108
+- Class: 114
+  Script: {fileID: 11500000, guid: b01072c946e28054aad3d34971395c6e, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
@@ -35,4 +43,11 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/GameRes/BundleRes/Scene/PortraitScene.unity
-Dependencies: []
+Dependencies:
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_back.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_down.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_front.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_left.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_right.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/textures/skybox/skybox_up.png.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/prefabs/planet.prefab.unity3d

@@ -38,4 +38,4 @@ ClassTypes:
 Assets:
 - Assets/GameRes/BundleRes/UI/MainUI/InfoUI.prefab
 Dependencies:
-- D:/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/ui/mainui/infoitem.prefab.unity3d
+- D:/Github/Clients/TheSecondWorld/ProtoConfig/Product/AssetBundles/Android/TheSecondWorld/ui/mainui/infoitem.prefab.unity3d
